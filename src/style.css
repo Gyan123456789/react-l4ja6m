@@ -1,12 +1,18 @@
    
-  
-  
+  *
+  {
+  background-color:aliceblue;
+
+  }
+  h2
+  {
+ font-size:20px ;
+ text-align: centern;
+
+  }
 
   img
   {
-width:300px ;
-height:200px ;
-
-
-
-  }
+width:336px ;
+height:150px ;
+}
